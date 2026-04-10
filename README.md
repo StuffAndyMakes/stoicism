@@ -13,6 +13,10 @@ A simple, elegant command-line utility for macOS that delivers daily wisdom from
 
 ## Installation
 
+### Excellent Stoicism Quotes Source
+
+https://github.com/DavidWells/awesome-stoicism/blob/master/quotes.json
+
 ### Build from Source
 
 ```bash
